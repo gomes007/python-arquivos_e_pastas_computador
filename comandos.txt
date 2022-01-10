@@ -1,1 +1,4 @@
-!jt -t monokai -T -N -kl
+jt -l  -> lista temas
+jt -t “nome do tema” aplicar tema
+
+!jt -t monokai -T -N -kl voltar barra ferramentas
